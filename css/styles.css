@@ -35,6 +35,7 @@ a {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
+  display: flex;
 
 }
 
@@ -209,7 +210,7 @@ a {
   font-size: 36px;
   text-transform: capitalize;
   line-height: 1.11;
-  margin-bottom: 8px;
+  margin-bottom: 72px;
 }
 
 .third-list {
@@ -225,6 +226,7 @@ a {
   border-radius: 4px;
   text-align: center;
   padding-bottom: 32px;
+  border-radius: 0px 0px 4px 4px;
 }
 
 .third-item img {
@@ -233,7 +235,12 @@ a {
   height: auto;
   margin-bottom: 32px;
 }
-
+.card-box{
+    padding: 32px 0;
+    }
+.card-title {
+    margin-bottom: 8px
+}
 .third-subtitle {
   font-weight: 500;
   font-size: 20px;
