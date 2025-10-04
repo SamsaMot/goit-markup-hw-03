@@ -150,6 +150,8 @@ a {
   display: flex;
   gap: 24px;
   justify-content: center;
+  align-items: center;
+
 }
 
 .third-item {
